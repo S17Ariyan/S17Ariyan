@@ -1,6 +1,6 @@
 ## Hi there im Ariyan Choroomi 
 
-My social contacts 
+My social contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-S17Ariyan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S17Ariyan)[![Instagram](https://img.shields.io/badge/Instagram-gold_pulse1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gold_pulse1) 
 
