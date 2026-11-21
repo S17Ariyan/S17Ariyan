@@ -1,9 +1,7 @@
 ## Hi there im Ariyan Choroomi 
 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-S17Ariyan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S17Ariyan)
-
-[![Instagram](https://img.shields.io/badge/Instagram-gold_pulse1-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/gold_pulse1) 
+[![Telegram](https://img.shields.io/badge/Telegram-S17Ariyan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S17Ariyan)[![Instagram](https://img.shields.io/badge/Instagram-gold_pulse1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gold_pulse1) 
 
 <!--
 **S17Ariyan/S17Ariyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
